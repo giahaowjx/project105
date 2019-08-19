@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/navigation_bulb"
+        android:icon="@drawable/bulb"
+        android:title="@string/title_bulb" />
+
+    <item
+        android:id="@+id/navigation_video"
+        android:icon="@drawable/video"
+        android:title="@string/title_video" />
+
+    <item
+        android:id="@+id/navigation_discover"
+        android:icon="@drawable/discover"
+        android:title="@string/title_discover"/>
+
+    <item
+        android:id="@+id/navigation_me"
+        android:icon="@drawable/user"
+        android:title="@string/title_me"/>
+
+</menu>
